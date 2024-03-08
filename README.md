@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <p align="center"> Hi, I am Krushnakant Bhattad 
-    <br> UG Sophomore studying at CSE, IIT Bombay. 
-    <br> Pursuing a minor in Applied Statistics and Informatics
-    <br> Data Analyst at Insight, IIT Bombay 
+    <br> Grad student at Georgia Tech
 </p>
 
 <p align="center">
